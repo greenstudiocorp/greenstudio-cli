@@ -1,5 +1,5 @@
 {
-  "name": "romulus-cli",
+  "name": "green-cli",
   "version": "1.0.3",
   "description": "Brings structure to your React Native apps",
   "files": [
@@ -13,9 +13,9 @@
   ],
   "author": "Simpleweb (https://github.com/simpleweb)",
   "license": "MIT",
-  "homepage": "https://github.com/simpleweb/romulus-cli",
-  "repository": "github:simpleweb/romulus-cli",
-  "bugs": "https://github.com/simpleweb/romulus-cli/issues",
+  "homepage": "https://github.com/simpleweb/green-cli",
+  "repository": "github:simpleweb/green-cli",
+  "bugs": "https://github.com/simpleweb/green-cli/issues",
   "bin": {
     "romulus": "./cli.js"
   },

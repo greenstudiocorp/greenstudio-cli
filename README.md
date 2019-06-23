@@ -1,4 +1,4 @@
-# ⚛️ romulus-cli &middot; [![npm version](https://img.shields.io/npm/v/romulus-cli.svg)](https://www.npmjs.com/package/romulus-cli) [![Build Status](https://semaphoreci.com/api/v1/simpleweb/romulus-cli/branches/master/shields_badge.svg)](https://semaphoreci.com/simpleweb/romulus-cli) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](.github/CONTRIBUTING.md#sending-a-pull-request)
+# ⚛️ green-cli &middot; [![npm version](https://img.shields.io/npm/v/green-cli.svg)](https://www.npmjs.com/package/green-cli) [![Build Status](https://semaphoreci.com/api/v1/simpleweb/green-cli/branches/master/shields_badge.svg)](https://semaphoreci.com/simpleweb/green-cli) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](.github/CONTRIBUTING.md#sending-a-pull-request)
 
 `romulus` is a tool designed to **provide structure** and a **set of patterns**
 for React Native applications.
@@ -28,18 +28,18 @@ straight away onto a device or simulator.
 ## Installation
 
 ```
-npm install -g romulus-cli
+npm install -g green-cli
 ```
 
 ```
-yarn global add romulus-cli
+yarn global add green-cli
 ```
 
 Don’t want to install anything? You can run the commands directly using
 `npx` (available with `npm@5.2.0`).
 
 ```
-npx romulus-cli init
+npx green-cli init
 ```
 
 ## Getting started
