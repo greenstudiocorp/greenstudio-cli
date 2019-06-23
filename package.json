@@ -17,7 +17,7 @@
   "repository": "github:simpleweb/green-cli",
   "bugs": "https://github.com/simpleweb/green-cli/issues",
   "bin": {
-    "romulus": "./cli.js"
+    "green": "./cli.js"
   },
   "dependencies": {
     "colors": "^1.3.2",

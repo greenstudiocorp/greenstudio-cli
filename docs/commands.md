@@ -1,14 +1,14 @@
 # Commands
 
-These commands rely on the original structure created by `romulus init`.
+These commands rely on the original structure created by `green init`.
 
 ## Component
 
 Creates a new _stateless_ or _stateful_ component.
 
 ```
-romulus component MyComponent
-romulus component MyComponent --stateful
+green component MyComponent
+green component MyComponent --stateful
 ```
 
 This will generate two files:
@@ -76,7 +76,7 @@ export const Text = styled.Text``;
 Creates a new reducer and associated actions.
 
 ```
-romulus reducer MyReducer
+green reducer MyReducer
 ```
 
 This will generate two files:
@@ -148,7 +148,7 @@ Creates a new screen that is connected to the Redux store following the containe
 pattern.
 
 ```
-romulus screen MyScreen
+green screen MyScreen
 ```
 
 This will generate two files:
