@@ -1,6 +1,6 @@
 {
-  "name": "green-cli",
-  "version": "1.0.3",
+  "name": "greenstudio-cli",
+  "version": "0.1.0",
   "description": "Brings structure to your React Native apps",
   "files": [
     "docs",
@@ -11,13 +11,13 @@
     "react-native",
     "yeoman-generator"
   ],
-  "author": "Simpleweb (https://github.com/simpleweb)",
+  "author": "Green Studio (https://github.com/leduchuy89vn)",
   "license": "MIT",
-  "homepage": "https://github.com/simpleweb/green-cli",
-  "repository": "github:simpleweb/green-cli",
-  "bugs": "https://github.com/simpleweb/green-cli/issues",
+  "homepage": "https://github.com/leduchuy89vn/greenstudio-cli",
+  "repository": "github:leduchuy89vn/green-cli",
+  "bugs": "https://github.com/leduchuy89vn/greenstudio-cli/issues",
   "bin": {
-    "green": "./cli.js"
+    "greenstudio": "./cli.js"
   },
   "dependencies": {
     "colors": "^1.3.2",

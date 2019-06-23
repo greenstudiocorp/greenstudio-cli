@@ -18,7 +18,7 @@ const reducerName = 'SimpleReducer';
 
 function createProject() {
 
-  console.log(`Creating a React Native project:`.yellow, `react-native init ${appName}`.green);
+  console.log(`Creating a React Native project:`.yellow, `react-native init ${appName}`.greenstudio);
   console.log("");
 
   spawn.sync('react-native', ['init', appName], {
@@ -27,13 +27,13 @@ function createProject() {
   });
 
   console.log("");
-  console.log(`✅  React Native project setup!`.green);
+  console.log(`✅  React Native project setup!`.greenstudio);
   console.log("");
 }
 
 createProject();
 
-describe('green Test', () => {
+describe('greenstudio Test', () => {
 
   // No fat arrows here, as we want to override the timeout
   after(function(done) {
@@ -43,7 +43,7 @@ describe('green Test', () => {
       path.join(__dirname, appName), () => {
 
         console.log("");
-        console.log(`✅  Clean up complete!`.green);
+        console.log(`✅  Clean up complete!`.greenstudio);
         console.log("");
 
         done();
